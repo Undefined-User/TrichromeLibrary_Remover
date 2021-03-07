@@ -24,7 +24,7 @@ So I wrote this python script, which enumerates the version codes of all stable 
 
 - [Android Chrome Release History](https://chromiumdash.appspot.com/releases?platform=Android)
 - [Android Chrome Old Version Code](https://source.chromium.org/chromium/chromium/src/+/refs/tags/80.0.3987.162:build/util/android_chrome_version.py) (75~80)
-- [Android Chrome Version Code](https://source.chromium.org/chromium/chromium/src/+/master:build/util/android_chrome_version.py) (Since 81)
+- [Android Chrome New Version Code](https://source.chromium.org/chromium/chromium/src/+/master:build/util/android_chrome_version.py) (Since 81)
 
 ## Creadits
 
